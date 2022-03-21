@@ -1,4 +1,4 @@
-///evaluate addition of numbers using double linked list
+///hopefully this shit actually works finally
 #include<stdio.h>
 #include<stdlib.h>
 
